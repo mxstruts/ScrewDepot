@@ -15,6 +15,8 @@ namespace ScrewDepot.Models
         public decimal Price { get; set; }  
         public int StockQuantity { get; set; } 
         public string Manufacturer { get; set; }
+        public string Rating { get; set; } // 1 to 5
+
 
         internal static Task<decimal> ToListAsync()
         {

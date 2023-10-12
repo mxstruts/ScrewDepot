@@ -31,7 +31,8 @@ namespace ScrewDepot.Models
                         DiameterInMillimeters = 14,
                         Price = 5,
                         StockQuantity = 34,
-                        Manufacturer = "Phillips"
+                        Manufacturer = "Phillips",
+                        Rating = "4"
                     },
 
                     new ScrewsModel
@@ -43,7 +44,8 @@ namespace ScrewDepot.Models
                         DiameterInMillimeters = 13,
                         Price = 8,
                         StockQuantity = 56,
-                        Manufacturer = "Axe"
+                        Manufacturer = "Axe",
+                        Rating = "5"
                     },
 
                     new ScrewsModel
@@ -55,7 +57,8 @@ namespace ScrewDepot.Models
                         DiameterInMillimeters = 11,
                         Price = 19,
                         StockQuantity = 30,
-                        Manufacturer = "Arrow"
+                        Manufacturer = "Arrow",
+                        Rating = "3"
                     },
 
                     new ScrewsModel
@@ -67,7 +70,8 @@ namespace ScrewDepot.Models
                         DiameterInMillimeters = 18,
                         Price = 5,
                         StockQuantity = 8,
-                        Manufacturer = "Axe"
+                        Manufacturer = "Axe",
+                        Rating = "5"
                     },
                      new ScrewsModel
                      {
@@ -78,7 +82,8 @@ namespace ScrewDepot.Models
                          DiameterInMillimeters = 12,
                          Price = 5,
                          StockQuantity = 3,
-                         Manufacturer = "Samsung"
+                         Manufacturer = "Samsung",
+                         Rating = "4"
                      },
                       new ScrewsModel
                       {
@@ -89,7 +94,8 @@ namespace ScrewDepot.Models
                           DiameterInMillimeters = 14,
                           Price = 5,
                           StockQuantity = 50,
-                          Manufacturer = "Phillips"
+                          Manufacturer = "Phillips",
+                          Rating = "4"
                       },
                        new ScrewsModel
                        {
@@ -100,7 +106,8 @@ namespace ScrewDepot.Models
                            DiameterInMillimeters = 14,
                            Price = 5,
                            StockQuantity = 36,
-                           Manufacturer = "Samsung"
+                           Manufacturer = "Samsung",
+                           Rating = "2"
                        },
                         new ScrewsModel
                         {
@@ -111,7 +118,8 @@ namespace ScrewDepot.Models
                             DiameterInMillimeters = 14,
                             Price = 5,
                             StockQuantity = 22,
-                            Manufacturer = "Axe"
+                            Manufacturer = "Axe",
+                            Rating = "5"
                         },
                          new ScrewsModel
                          {
@@ -122,7 +130,8 @@ namespace ScrewDepot.Models
                              DiameterInMillimeters = 20,
                              Price = 5,
                              StockQuantity = 12,
-                             Manufacturer = "Samsung"
+                             Manufacturer = "Samsung",
+                             Rating = "4"
                          },
                           new ScrewsModel
                           {
@@ -133,7 +142,8 @@ namespace ScrewDepot.Models
                               DiameterInMillimeters = 13,
                               Price = 5,
                               StockQuantity = 14,
-                              Manufacturer = "Axe"
+                              Manufacturer = "Axe",
+                              Rating = "3"
                           }
                 ); ;
                 context.SaveChanges();
