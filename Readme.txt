@@ -1,7 +1,8 @@
 // Program name: ScrewDepot
 // Program purpose: Screws personal store
 // Program author: Maksym Shatylo
-// Date Created: 2022-10-09 7:45
+// Date Created: 2022-10-09 745
+// Date Finished: 2023-10-13 500
 
 Screw Depot
 
