@@ -1,5 +1,7 @@
 # Personal ScrewDepot Product Website - ASP.NET Core 3.1 Assignment
 
+## Author: Maksym S.
+
 ## Overview
 This project is an assignment for an ASP.NET Core 3.1 web application that serves as a personal website for a screw product catalog. The website is designed to showcase various screw products and provide information about them. This Readme file serves as a guide to help you set up and understand the project.
 
